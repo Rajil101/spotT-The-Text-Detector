@@ -1,6 +1,6 @@
 # spotT-The-Text-Detector
 
-**spotT** is a text detector made on android studio using java language where you can snap & detect the text using ML Kit recognition by firebase.
+**spotT** is a text detector made on android studio using java language where you can snap & detect the text using ML Kit recognition by firebase with high accuracy. It is a user friendly & easy accessible mobile application.
 
 ***App-Icon**:-
 
